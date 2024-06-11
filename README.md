@@ -1,2 +1,2 @@
 <!-- Visitor Counter -->
-<img align="left" src="(https://api.visitorbadge.io/api/VisitorHit?user=Simpl1fy&repo=Simpl1fy&countColor=%237B1E7A)">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Simpl1fy.Simpl1fy&left_text=My%20Page%20Visitors">
