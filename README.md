@@ -41,6 +41,10 @@
 <br/>
 <hr/>
 
+<div align="center">
+<h2>🐍 My Contributions 🐍</h2>
+<br>
+</div>
 ![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
 
 
