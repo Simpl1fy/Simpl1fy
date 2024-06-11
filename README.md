@@ -3,5 +3,5 @@
 
 <!-- Typing intro -->
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&random=false&width=435&lines=Hi,+my+name+is+Gourab+Das;Passionate+Developer+from+India." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&random=false&width=435&lines=Hi+there!+🙋‍♂️;I'm+Gourab+Das." alt="Typing SVG" /></a>
 </h1>
