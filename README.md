@@ -16,7 +16,7 @@
 
     🌴 Currently learning React, Python Advanced, Django 🌴
 
-    💭 Ask me about Flask, Python, ML [here](https://github.com/Simpl1fy/Simpl1fy/issues)**
+    💭 Ask me about Flask, Python, ML or anything [here](https://github.com/Simpl1fy/Simpl1fy/issues)** 💭
 
 </div>
 
