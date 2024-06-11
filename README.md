@@ -53,10 +53,10 @@
 <div align="center">
 <h2>⚡ Streak ⚡</h2>
 <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Simpl1fy&theme=merko)](https://git.io/streak-stats)
+
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Simpl1fy)](https://git.io/streak-stats)
-
 
 
 
