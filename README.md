@@ -48,6 +48,15 @@
 
 ![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
 
+<hr/>
+
+<div align="center">
+<h2>⚡ Streak ⚡</h2>
+<br>
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Simpl1fy)](https://git.io/streak-stats)
+
 
 
 
