@@ -1,4 +1,7 @@
-# 💫 About Me:
+# 💫 Gourab Das | Full Stack Developer:
+
+👋 I'm a passionate web developer with a keen interest in both frontend and backend technologies. My goal is to build dynamic, scalable, and efficient web applications that offer seamless user experiences.
+
 🔭 I’m currently working on React Projects<br><br>💬 Ask me about Python, Flask
 
 
