@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Projects<br>🌱 I’m currently learning NEXT.js<br>💬 Ask me about Python, Flask, Django
+🔭 I’m currently working on React Projects<br><br>💬 Ask me about Python, Flask
 
 
 ## 🌐 Socials:
